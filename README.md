@@ -1,11 +1,12 @@
 # Olá, eu sou o Sunny
 
-Estudante de programação · Construindo coisas na web
+Estudante de Engenharia de Software na UCB · Construindo coisas na web
 
 ---
 
 ### Sobre mim
 
+- Cursando **Engenharia de Software** na Universidade Católica de Brasília
 - Atualmente estudando **Python**
 - Boa base em **HTML, CSS & JavaScript**
 - Desenvolvendo meus primeiros projetos pessoais
