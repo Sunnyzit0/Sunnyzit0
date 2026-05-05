@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Sunny
 
-<!--
-**Sunnyzit0/Sunnyzit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação · Construindo coisas na web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+- Atualmente estudando **Python**
+- Boa base em **HTML, CSS & JavaScript**
+- Desenvolvendo meus primeiros projetos pessoais
+
+---
+
+### Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML-e8c9bb?style=flat&logo=html5&logoColor=993C1D)
+![CSS](https://img.shields.io/badge/CSS-b5d4f4?style=flat&logo=css3&logoColor=185FA5)
+![JavaScript](https://img.shields.io/badge/JavaScript-fac775?style=flat&logo=javascript&logoColor=854F0B)
+![Python](https://img.shields.io/badge/Python-c0dd97?style=flat&logo=python&logoColor=3B6D11)
+![Git](https://img.shields.io/badge/Git-d3d1c7?style=flat&logo=git&logoColor=5F5E5A)
+
+---
+
+### Projetos
+
+**[Gaveta](https://github.com/Sunnyzit0/Gaveta)** — Projeto pessoal em desenvolvimento
