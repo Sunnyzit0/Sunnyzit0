@@ -1,7 +1,6 @@
 # Olá, eu sou o Sunny
 
-Estudante de Engenharia de Software na UCB · Construindo coisas na web
-
+Estudante de Engenharia de Software na UCB ·
 ---
 
 ### Sobre mim
