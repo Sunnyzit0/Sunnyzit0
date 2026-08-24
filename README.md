@@ -22,6 +22,3 @@ Estudante de Engenharia de Software na UCB ·
 
 ---
 
-### Projetos
-
-**[Gaveta](https://github.com/Sunnyzit0/Gaveta)** — Projeto pessoal em desenvolvimento
