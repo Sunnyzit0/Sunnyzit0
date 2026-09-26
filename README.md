@@ -67,7 +67,7 @@ Crio **sites e sistemas web para negócios locais**, do layout ao deploy: págin
 <tr>
 <td width="50%" valign="top">
 <a href="https://www.recantodapiscina.com.br"><img src="assets/recanto.jpg" alt="Print do site Recanto da Piscina" width="100%"/></a>
-<br/><b>Recanto da Piscina</b> · <sub>EM PRODUÇÃO</sub><br/>
+<br/><b>Recanto da Piscina</b> · <sub>ENTREGUE</sub><br/>
 <sub>Sistema de reservas com domínio próprio: calendário em tempo real, painel admin, aprovação por e-mail e galeria gerenciável pelo cliente.</sub><br/>
 <a href="https://www.recantodapiscina.com.br">Ver site →</a> · <a href="https://github.com/Sunnyzit0/recanto-booking-bliss">Código →</a>
 </td>
