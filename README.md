@@ -30,8 +30,7 @@ Crio **sites e sistemas web para negócios locais**, do layout ao deploy: págin
 <a href="https://instagram.com/ato.js"><img src="https://img.shields.io/badge/Instagram-ato.js-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a>
 <!-- <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
 <a href="https://github.com/Sunnyzit0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!-- Se tiver LinkedIn, descomente e troque o link: -->
-<!-- <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/arthuzinho/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br clear="right"/>
 <br/>
@@ -61,7 +60,7 @@ Crio **sites e sistemas web para negócios locais**, do layout ao deploy: págin
 <br/><br/>
 
 <!-- ============ PROJETOS ============ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=46&section=header&text=%E2%9C%A6%20%20PROJETOS%20ENTREGUES%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=46&section=header&text=%E2%9C%A6%20%20PROJETOS%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <table>
 <tr>
